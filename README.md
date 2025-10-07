@@ -7,3 +7,4 @@ To register a new user, send a POST request to the registration endpoint with th
 
 On successful registration, the server will create a new user account.
 Use JWT Tokens for Login and Authentication
+** Implementation as required **
